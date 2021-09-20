@@ -4,7 +4,7 @@ First project that I got a glimpse of python's true power.
 ## Cut this monthly task duration by 90%, and preserved my sanity.
 
 Background:
-I had a monthly sales transaction file (excel) that I pull from our SAP database for the entire company (on average 200k rows 40 columns). I was responsible to clean, transform, distribute, and calculate commissions for 45+ sales reps.
+I had a monthly sales transaction file (excel) that I pull from our SAP database for the entire company (on average 200k rows 40 columns). I was responsible to clean, transform, distribute, and calculate commissions for 45+ sales reps. Had a file that contained sales rep information and file locations. Looped through the task roadmap for each sales rep file.
 
 Files: 
 1. Monthly sales transaction file
@@ -24,4 +24,4 @@ Task roadmap:
 7. Left join (2b) on customer id to (2d)
 8. Save (2)
 
-I had other cells/sheets that contained excel formulas that would do the calculation.
+FYI, I had other cells/sheets that contained excel formulas that would do the calculation.
