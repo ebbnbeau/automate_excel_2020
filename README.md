@@ -1,6 +1,6 @@
 # automate_excel_2020
 
-First project that I got a glimpse of python's true power. 
+First project that I got a glimpse of python's true power. And gave me the hunger to pursue further.
 ## Cut this monthly task duration by 90%, and preserved my sanity.
 
 Background:
