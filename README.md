@@ -21,7 +21,6 @@ Task roadmap:
 4. Format the worksheet (2c)
 5. Create a worksheet (2d) with pivot table summary of the data within (2c)
 6. Insert label cells and calculation cells (2c) (might've removed this step for efficiency)
-7. Left join (2b) on customer id to (2d)
 8. Save (2)
 
 FYI, I had other cells/sheets that contained excel formulas that would do the calculation.
